@@ -1,0 +1,17 @@
+body
+{
+	background-color: #b51422;
+}
+
+pre
+{
+	margin-top: 3%;
+	border: 5px solid white;
+	width: 70%;
+	margin-left: 15%;
+	box-shadow: 3px 13px 20px black;
+	background-color: white;
+	word-wrap: break-word;
+	font-size: 20px;
+	font-family: Times New Roman;
+}
